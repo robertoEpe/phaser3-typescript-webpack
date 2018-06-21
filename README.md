@@ -12,7 +12,7 @@ Navigate into your workspace directory.
 
 Run:
 
-```git clone https://github.com/troyedwardsjr/phaser3-typescript-webpack.git```
+```git clone https://github.com/robertoEpe/phaser3-typescript-webpack.git```
 
 ## 2. Install node.js and npm:
 
